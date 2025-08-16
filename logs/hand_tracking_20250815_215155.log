@@ -1,0 +1,8 @@
+2025-08-15 21:52:03,197 - INFO - Camera initialized successfully
+2025-08-15 21:52:03,197 - INFO - Hand detector initialized successfully
+2025-08-15 21:52:03,197 - INFO - HandMouseController initialized successfully
+2025-08-15 21:52:03,197 - INFO - Starting hand tracking control loop
+2025-08-15 21:52:04,642 - ERROR - Error in main loop: 'HandMouseController' object has no attribute 'cycle_sensitivity'
+2025-08-15 21:52:42,581 - ERROR - Error in main loop: 'HandMouseController' object has no attribute 'cycle_sensitivity'
+2025-08-15 21:54:58,851 - INFO - Interrupted by user
+2025-08-15 21:54:59,318 - INFO - Cleanup completed

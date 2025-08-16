@@ -1,0 +1,6 @@
+2025-08-15 21:45:00,163 - INFO - Camera initialized successfully
+2025-08-15 21:45:00,190 - INFO - Hand detector initialized successfully
+2025-08-15 21:45:00,190 - INFO - HandMouseController initialized successfully
+2025-08-15 21:45:00,190 - INFO - Starting hand tracking control loop
+2025-08-15 21:46:02,034 - INFO - Interrupted by user
+2025-08-15 21:46:02,487 - INFO - Cleanup completed
